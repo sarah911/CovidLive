@@ -18,7 +18,6 @@
 <img src="https://user-images.githubusercontent.com/47927679/111087258-04f6be00-84f7-11eb-9b61-97d8facc9952.png" height="600">
 <img src="https://user-images.githubusercontent.com/47927679/111085468-df18eb80-84ed-11eb-87c9-ae9c49dce500.png" height="600">
 
-You can choose 
 
 * Find Nearby Covid Testing Center
 
