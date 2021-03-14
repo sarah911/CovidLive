@@ -4,7 +4,7 @@ Prototype for an app provide Covid19 status and helping elderly people to get he
 # CovidLive Overview
 * Loading Screen / Title Screen
 
-![image](https://user-images.githubusercontent.com/47927679/111084518-28b30780-84e9-11eb-9732-27b27bf51382.png)
+![image](https://user-images.githubusercontent.com/47927679/111085619-7b42f280-84ee-11eb-8177-34bfc7896756.png)
 
 * Check Status of Covid-19 Around Your Area
 
@@ -12,7 +12,7 @@ Prototype for an app provide Covid19 status and helping elderly people to get he
 
 * Get Useful Information to Avoid Covid-19
 
-![image](https://user-images.githubusercontent.com/47927679/111085169-90b71d00-84ec-11eb-8b29-a7f4bddf1894.png)
+![image](https://user-images.githubusercontent.com/47927679/111085593-65cdc880-84ee-11eb-8670-41ec7f26430f.png)
 
 * Help Your Neighbors Who Needs Your Help.
 
@@ -21,7 +21,7 @@ Prototype for an app provide Covid19 status and helping elderly people to get he
 
 * Find Nearby Covid Testing Center
 
-![image](https://user-images.githubusercontent.com/47927679/111085317-3cf90380-84ed-11eb-8981-7680aeea7fa7.png)
+![image](https://user-images.githubusercontent.com/47927679/111085579-53538f00-84ee-11eb-935f-f1fc416272d9.png)
 
 * Call For Help
 
@@ -30,7 +30,9 @@ Prototype for an app provide Covid19 status and helping elderly people to get he
 # Related Links
 
 * Youtube
+
 Youtube Link Will be Added
 
 * Figma
+
 https://www.figma.com/file/Sms2Kmf7abZoTivCpB4nCw/Assignment2?node-id=0%3A1
