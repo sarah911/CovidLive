@@ -8,7 +8,7 @@ Prototype for an app provide Covid19 status and helping elderly people to get he
 
 * Check Status of Covid-19 Around Your Area
 
-![image](https://user-images.githubusercontent.com/47927679/111084600-89dadb00-84e9-11eb-830e-fe2399a2dfc1.png)
+![image](https://user-images.githubusercontent.com/47927679/111085671-bcd39d80-84ee-11eb-87aa-d07878914550.png)
 
 * Get Useful Information to Avoid Covid-19
 
