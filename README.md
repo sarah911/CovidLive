@@ -1,8 +1,12 @@
 # CovidLive Overview
+
+![image](https://user-images.githubusercontent.com/47927679/111087297-41c2b500-84f7-11eb-8795-0cfcea177104.png)
+
+# CovidLive Features
+
 * Loading Screen / Title Screen
 
 <img src="https://user-images.githubusercontent.com/47927679/111085619-7b42f280-84ee-11eb-8177-34bfc7896756.png" height="600">
-
 
 * Check Status of Covid-19 Around Your Area
 
