@@ -17,7 +17,7 @@ Prototype for an app provide Covid19 status and helping elderly people to get he
 * Help Your Neighbors Who Needs Your Help.
 
 ![image](https://user-images.githubusercontent.com/47927679/111085236-d8d63f80-84ec-11eb-8dd0-7dd6be21d3d9.png)
-![image](https://user-images.githubusercontent.com/47927679/111085270-04f1c080-84ed-11eb-827e-2e1ecd19430d.png)
+![image](https://user-images.githubusercontent.com/47927679/111085468-df18eb80-84ed-11eb-87c9-ae9c49dce500.png)
 
 * Find Nearby Covid Testing Center
 
