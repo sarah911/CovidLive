@@ -1,28 +1,31 @@
 # CovidLive Overview
 * Loading Screen / Title Screen
 
-![image](https://user-images.githubusercontent.com/47927679/111085619-7b42f280-84ee-11eb-8177-34bfc7896756.png)
+<img src="https://user-images.githubusercontent.com/47927679/111085619-7b42f280-84ee-11eb-8177-34bfc7896756.png" height="600">
+
 
 * Check Status of Covid-19 Around Your Area
 
-![image](https://user-images.githubusercontent.com/47927679/111085671-bcd39d80-84ee-11eb-87aa-d07878914550.png)
+<img src="https://user-images.githubusercontent.com/47927679/111085671-bcd39d80-84ee-11eb-87aa-d07878914550.png" height="600">
 
 * Get Useful Information to Avoid Covid-19
 
-![image](https://user-images.githubusercontent.com/47927679/111085593-65cdc880-84ee-11eb-8670-41ec7f26430f.png)
+<img src="https://user-images.githubusercontent.com/47927679/111085593-65cdc880-84ee-11eb-8670-41ec7f26430f.png" height="600">
+<img src="https://user-images.githubusercontent.com/47927679/111087144-42a71700-84f6-11eb-8a03-27704afa2b6c.png" height="600">
+
 
 * Help Your Neighbors Who Needs Your Help.
 
-![image](https://user-images.githubusercontent.com/47927679/111085541-2901d180-84ee-11eb-8cd1-911b372d63e5.png)
-![image](https://user-images.githubusercontent.com/47927679/111085468-df18eb80-84ed-11eb-87c9-ae9c49dce500.png)
+<img src="https://user-images.githubusercontent.com/47927679/111085541-2901d180-84ee-11eb-8cd1-911b372d63e5.png" height="600">
+<img src="https://user-images.githubusercontent.com/47927679/111085468-df18eb80-84ed-11eb-87c9-ae9c49dce500.png" height="600">
 
 * Find Nearby Covid Testing Center
 
-![image](https://user-images.githubusercontent.com/47927679/111085579-53538f00-84ee-11eb-935f-f1fc416272d9.png)
+<img src="https://user-images.githubusercontent.com/47927679/111085579-53538f00-84ee-11eb-935f-f1fc416272d9.png" height="600">
 
 * Call For Help
 
-![image](https://user-images.githubusercontent.com/47927679/111085340-64e86700-84ed-11eb-860e-bb42cb7ebf33.png)
+<img src="https://user-images.githubusercontent.com/47927679/111085340-64e86700-84ed-11eb-860e-bb42cb7ebf33.png" height="600">
 
 # Related Links
 
