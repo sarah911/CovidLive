@@ -1,6 +1,6 @@
 # CovidLive Overview
 
-![image](https://user-images.githubusercontent.com/47927679/111087297-41c2b500-84f7-11eb-8795-0cfcea177104.png)
+![image](https://user-images.githubusercontent.com/47927679/113370609-4928f180-9332-11eb-81db-12e4e0399bc2.png)
 
 # CovidLive Features
 
@@ -17,10 +17,13 @@
 <img src="https://user-images.githubusercontent.com/47927679/111085593-65cdc880-84ee-11eb-8670-41ec7f26430f.png" height="600">
 <img src="https://user-images.githubusercontent.com/47927679/111087144-42a71700-84f6-11eb-8a03-27704afa2b6c.png" height="600">
 
-* Help Your Neighbors Who Needs Your Help.
+* Help Your Neighbors Who Needs Your Help or Get Help from Volunteers
 
 <img src="https://user-images.githubusercontent.com/47927679/111087258-04f6be00-84f7-11eb-9b61-97d8facc9952.png" height="600">
 <img src="https://user-images.githubusercontent.com/47927679/111085468-df18eb80-84ed-11eb-87c9-ae9c49dce500.png" height="600">
+<img src="https://user-images.githubusercontent.com/47927679/113370694-88574280-9332-11eb-8d53-4a8ed198ddf7.png" height="600">
+
+
 
 
 * Find Nearby Covid Testing Center
